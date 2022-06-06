@@ -1,2 +1,5 @@
 # SAFMAK RU - это первый шаг к победе над высокими ценами и низким качеством.
-<img src='https://cdn-ru.bitrix24.ru/b21627786/landing/9d2/9d21359b20a8f20fc42d258dbd557300/Novyy_proekt_3_1x.png'>
+<div id="my-store-75375540"></div>
+<div>
+<script data-cfasync="false" type="text/javascript" src="https://app.ecwid.com/script.js?75375540&data_platform=code&data_date=2022-06-06" charset="utf-8"></script><script type="text/javascript"> xProductBrowser("categoriesPerRow=3","views=grid(20,3) list(60) table(60)","categoryView=grid","searchView=list","id=my-store-75375540");</script>
+</div>
