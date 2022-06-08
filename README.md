@@ -1,4 +1,4 @@
-github:
+#github:
   is_project_page: false
 # SAFMAK RU - это первый шаг к победе над высокими ценами и низким качеством.
 <div id="my-store-75375540"></div>
